@@ -1,0 +1,35 @@
+# E-commerce System MVP – Product Manager Assignment (Answers)
+
+## Part 1: Product Design
+
+### 1. User Roles and Core Scenarios
+
+| User Role | Core Scenarios |
+|-----------|----------------|
+| Customer | Browse products, search/filter, view product details, add to cart, place orders, make payments, view order history, request order cancellation |
+| Operations Staff | Create/edit products, manage pricing & inventory, review orders, update order status (ship, complete, cancel) |
+| Platform Admin | Manage user permissions, view platform data (orders, GMV), handle abnormal orders |
+
+---
+
+### 2. MVP Feature List and Priority
+
+| Module | Feature | Priority | Reason |
+|--------|---------|----------|--------|
+| Customer Side | Product List Page | P0 | Users need to browse products |
+| Customer Side | Product Detail Page | P0 | Users need product information |
+| Customer Side | Login / Registration | P0 | User identification |
+| Customer Side | Shopping Cart | P0 | Batch purchase |
+| Customer Side | Submit Order | P0 | Core transaction action |
+| Customer Side | Payment | P0 | Complete transaction |
+| Customer Side | Order List / Details | P0 | Track order status |
+| Admin Side | Product Management | P0 | List products for sale |
+| Admin Side | SKU / Inventory Management | P0 | Control available stock |
+| Admin Side | Order Management | P0 | Process orders |
+| Admin Side | Shipment Management | P1 | Update delivery status |
+| Customer Side | Search / Category Filter | P1 | Improve browsing efficiency |
+| Admin Side | User Management | P2 | Future iteration |
+| Customer Side | Coupons | P2 | Not required for MVP |
+| Admin Side | Data Dashboard | P2 | Not needed initially |
+
+---
