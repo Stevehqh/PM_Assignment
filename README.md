@@ -1,1 +1,1 @@
-Please kindly find the pm assignment ecommerce mvp solution as attached. 
+The PDF file titled "PM_Assignment_Ecommerce_MVP_Solution" contains detailed responses to all sections of the Product Manager assignment, including user roles, MVP feature prioritization, process design, API understanding, order status logic, and core metrics, etc. 
